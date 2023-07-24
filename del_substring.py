@@ -27,11 +27,3 @@ if __name__ == "__main__":
 
     print(test)
     print(del_substring(test, remu))
-
-    # listener = list(range(0, 15)) # input("del:")
-    # print(repr(listener))
-
-    # text = "0123456789"
-    # text = text[:5] + text[8:]
-    # # text[19:23] = ''
-    # print(repr(text))
